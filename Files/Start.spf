@@ -1,0 +1,14 @@
+<html>
+<body>
+<title>StartPage</title>
+<h1>Surf-StartPage<br></h1>
+<p>(C)Michael Wang 2018<br></p>
+<h2>Search Websites<br></h3>
+<h3>Site: www.google.com <a href="http://www.google.com">ClickMe</a><br>
+Site: cn.bing.com <a href="https://cn.bing.com">ClickMe</a><br>
+Site: www.yahoo.com <a href="https://www.yahoo.com">ClickMe</a>
+<br><br>
+<h4>This page can also be veiwed offline, so this doesn't mean <br>
+your connected to the internet</h4>
+</body>
+</html>

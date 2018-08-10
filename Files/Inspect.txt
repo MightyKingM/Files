@@ -1,0 +1,8 @@
+<html>
+<body>
+<h3>Null Page<br></h3>
+<p>If you see this page, that means the page is NULL<br><br>
+Reasons may be that you have <br> (A not ispected any page
+<br>(B canceled navigation<br>(C the page had an error</p>
+</body>
+</html>
